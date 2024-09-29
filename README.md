@@ -1,4 +1,4 @@
 # Git-Demo
-First GitHub repositroy. 
+First GitHub repository. 
 <br>
 Author - Palash Shivnani
